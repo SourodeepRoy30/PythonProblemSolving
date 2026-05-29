@@ -4,12 +4,6 @@
 
 ---
 
-## Tracking Legend
-- [ ] Not started
-- [x] Completed
-
----
-
 ## Phase 1 — Variables & Data Types
 
 > **Goal:** Understand how Python stores different kinds of data and how to perform basic input/output operations.
